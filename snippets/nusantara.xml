@@ -3,13 +3,13 @@
 
   <!-- Nusantara remote -->
   <remote  name="nad"
-           fetch="https://github.com/NusantaraProject-ROM/"
-           revision="12"
+           fetch="https://github.com/Nusantara-ROM/"
+           revision="13"
            sync-j="16" />
 
-  <remote  name="wip"
+  <remote  name="13"
            fetch="https://github.com/Nusantara-ROM/" 
-           revision="12" />
+           revision="13" />
 
   <!-- Device remote -->
   <remote  name="device"
