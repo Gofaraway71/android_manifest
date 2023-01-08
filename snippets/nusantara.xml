@@ -7,7 +7,7 @@
            revision="13"
            sync-j="16" />
 
-  <remote  name="13"
+  <remote  name="wip"
            fetch="https://github.com/Nusantara-ROM/" 
            revision="13" />
 
